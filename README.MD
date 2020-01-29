@@ -2,4 +2,4 @@
 
 Usar serve para rodar o html
 
-"""npx serve"""
+```npx serve```
